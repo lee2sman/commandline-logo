@@ -6,7 +6,7 @@ Ultra trivial starter code.
 
 add to bashrc or bash_profile the following line to jump to interpretative python with turtle imported.
 
-    alias LOGO="python -i -c \"from turtle import *\" "
+    alias LOGO="python -i  path/to/setupLogo.py"
 
 It will then dump you into the python interpreter and you can run commands like:
     fd(50)
